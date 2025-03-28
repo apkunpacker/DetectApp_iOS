@@ -37,3 +37,7 @@ NSArray<NSString *> *detectJailbreakApps(void) {
     
     return detectedApps;
 }
+/*
+NSArray<NSString *> *jailbreakApps = detectJailbreakApps();
+NSLog(@"Detected Jailbreak Apps: %@", jailbreakApps);
+*/
